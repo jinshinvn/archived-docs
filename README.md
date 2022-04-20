@@ -15,7 +15,7 @@ __Password (nếu có): Tên thằng cot viết hoa đầu từ ( :__
 
 - [Giáo trình Marx - Lenin](https://drive.google.com/file/d/1AMtqEs2XcDzjHGKlSqIr5wRF4LfM_TeP/view?usp=sharing) - Đại học Khoa học Xã hội & Nhân văn TP.HCM
 
--[Giáo trình kinh tế chính trị](https://drive.google.com/file/d/1hAuYSxsyW5bVhe4v31uAIpqhuXpzN2Lf/view?usp=sharing)
+- [Giáo trình kinh tế chính trị](https://drive.google.com/file/d/1hAuYSxsyW5bVhe4v31uAIpqhuXpzN2Lf/view?usp=sharing)
 
 ## 3. Đề thi:
 
