@@ -1,6 +1,6 @@
 # Archived Documents
 
-__Password (nếu có): Tên thằng cot viết hoa đầu từ ( :__
+__Password (nếu có): TrinhQuocDanh__
 
 
 ## 1. Linh tinh
