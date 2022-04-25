@@ -21,17 +21,17 @@ __Password (nếu có): TrinhQuocDanh__
 
 ## 3. Đề thi:
 
-- Xác suất thống kê: lý thuyết & bài tập Lê Sĩ Đồng
+- Cuối kỳ giải tích 2 (pv): [link](https://drive.google.com/file/d/1Zh9aKkSs5-1Qz6SWTO6fuvSJC2tOR7aW/view?usp=sharing)
 
-- Đại số tuyến tính: [link](https://cuuduongthancong.com)
-
-- Cấu trúc rời rạc: [link](https://cuuduongthancong.com)
+- Cuối kỳ kỹ thuật lập trình (pv): [link](https://drive.google.com/file/d/1Ox1zupTGUVjHkwIv4pUGUqw7wfMVr01B/view?usp=sharing)
 
 - Cuối kỳ kỹ thuật lập trình (from K19): [link](https://drive.google.com/file/d/1Lb4MkafPuxwBommR1j9v-UcVCehIEtEL/view?usp=sharing)
 
 - Giữa kỳ thực hành mạng máy tính: [link](https://drive.google.com/file/d/1a2xWI1wf1ObnMyZUVpbVVlZ8mJAqOjrA/view?usp=sharing)
 
-- Cuối kỳ PPNCKH HKI 2020 - 2021: [link](https://drive.google.com/drive/folders/1dd_v1tGBeVrLgNNrQ6FY-EFWwhY0s_m3?usp=sharing) 
+- Cuối kỳ mạng máy tính: [link](https://drive.google.com/file/d/13alOGsL6RPLmrQtJlnUfkuCzRNcPf_2w/view?usp=sharing)
+
+- Cuối kỳ PPNCKH HKI 2020 - 2021: [link 1](https://drive.google.com/drive/folders/1dd_v1tGBeVrLgNNrQ6FY-EFWwhY0s_m3?usp=sharing), [link 2](https://drive.google.com/file/d/1s3N44Idk96hmg5Q31TJ5WiQB4o9x-N5o/view?usp=sharing),  [link 3](https://drive.google.com/file/d/1L4R56ADd47MaU7DqCWC65IMGcqdIhohF/view?usp=sharing)
 
 - Giữa kỳ Giải tích 2: [link 1](https://drive.google.com/file/d/1sFJ7y0AFx0mLmIow96SwEJKRH7ekBaIc/view?usp=sharing) [link 2](https://drive.google.com/file/d/106qoCSzN2_-vwHGAFVLMTvNg6Ra7paZ9/view?usp=sharing)
 
@@ -65,6 +65,12 @@ __Password (nếu có): TrinhQuocDanh__
 - Cuối kỳ PPNCKH CNTT: [link đề](https://drive.google.com/file/d/16a0FuQK5AkWotvkPOPrmJwN-DfKNRjUg/view?usp=sharing), [link paper](https://drive.google.com/file/d/1G-9qSLivS_waRkhY-NHH6fEdjBUWnS9w/view?usp=sharing)
 
 ## 4. Tai lieu:
+
+- Xác suất thống kê: lý thuyết & bài tập Lê Sĩ Đồng
+
+- Đại số tuyến tính: [link](https://cuuduongthancong.com)
+
+- Cấu trúc rời rạc: [link](https://cuuduongthancong.com)
 
 - [Giải tích 1](https://drive.google.com/drive/folders/1xgnYgPLKvSYT9e2uvtOUP5DO_hqINs5J?usp=sharing)
 
