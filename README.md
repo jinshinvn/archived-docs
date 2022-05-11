@@ -102,6 +102,8 @@ __Password (nếu có): TrinhQuocDanh__
 
 - Old requirements: [link](https://docs.google.com/document/d/1iuJMgKuVnafbM_AGBsxEQtYUsegPynxM/edit?usp=sharing&ouid=115244724552858808003&rtpof=true&sd=true)
 
+<!---
+
 ## 6. Các giảng viên tôi đã học và nghiên cứu
 
 | Bộ môn | Tên giảng viên | Ghi chú |
@@ -123,8 +125,9 @@ __Password (nếu có): TrinhQuocDanh__
 | Hệ điều hành | Trần Sơn Hải | Đề cao tinh thần học nhóm, gọi tên bất kỳ ai để kiểm tra mức độ hiểu bài, 0 hiểu thì thôi, thầy khá vui tính. |
 | Cấu trúc dữ liệu & giải thuật | Lê Minh Nhựt Triều | ~~Tài liệu ít, dạy ít, quở nhiều, thái độ dạy đời. Muốn cải thiện bản thân thì đừng nên đăng ký.~~ |
 | CSDL | Trương Tấn Khoa | Đề giữa kỳ mức độ cơ bản. Tài liệu đầy đủ. Không hiểu chỗ nào thì hỏi ngay vì thầy dạy rất nhanh |
-| Các hệ quản trị CSDL | Lê Thị Lãm Thúy | Tài liệu cực đầy đủ. Đề kiểm tra ở mức cơ bản nhưng phải học bài kỹ thì làm mới được |
+| Các hệ quản trị CSDL | Lê Thị Lãm Thúy | Tài liệu cực đầy đủ. Đề kiểm tra ở mức cơ bản nhưng phải học bài kỹ thì làm mới được. Thi giữa kỳ đề mở, mà có mở cũng chắc gì làm được ( : |
 | GDTC | Đỗ Thị Hội Uyên | Điểm danh 100% tiết dạy, tiết nào cũng chạy 7 - 9 vòng sân. Phần lớn thời gian dành cho động tác khởi động. |
 | Ngôn ngữ lập trình Python | Trịnh Tấn Đạt | Như thầy Trương Tấn Khoa, giữa kỳ làm đồ án |
-| Lập trình Java & Lập trình hướng đối tượng | Phùng Thái Thiên Trang | Lạm phát điểm cộng, tiết học rất vui, thường xuyên phải viết cảm nghĩ về bản thân. Tận tâm sửa chữa lỗi đồ án, thắc mắc học viên. **Đồ án cực kỳ căng não.** |
+| Lập trình Java & Lập trình hướng đối tượng | Phùng Thái Thiên Trang | Lạm phát điểm cộng, tiết học rất vui, thường xuyên phải viết cảm nghĩ về bản thân. Tận tâm sửa chữa lỗi đồ án, thắc mắc học viên. **Đồ án cực kỳ căng não. Chạy deadline sấp mặt** |
 | Phân thích thiết kế hệ thống thông tin | Lê Hùng Thanh Nhựt | Viết tay, vẽ hình bằng thước ngay hàng thẳng lối, 50% lý thuyết, 50% bài tập. Thường xuyên điểm danh. Cần chú trọng tác phong học tập nghiêm chỉnh. |
+-->
