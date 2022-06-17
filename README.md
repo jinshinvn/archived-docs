@@ -1,13 +1,12 @@
-# Archived Documents
+# Những tài liệu đã lưu trữ
 
 __Password (nếu có): TrinhQuocDanh__
 
-
-## 1. Linh tinh
+## 1. Tài liệu, văn bản Linh tinh
 
 - [Thông tin phòng ban](https://drive.google.com/drive/folders/1bYgyWIMmyMuiNiZnmDfKn7BKvBsEnmfc?usp=sharing)
 
-## 2. Môn chung
+## 2. Tài liệu môn chung tổng hợp
 
 - [PLDC by Luyện Đức Anh](https://drive.google.com/drive/folders/1ETAHGbggNZZsiJcTRdC-TqyZLMyvKark?usp=sharing)
 
@@ -19,7 +18,7 @@ __Password (nếu có): TrinhQuocDanh__
 
 - [Giải tích 2 by Trần Thanh Bình](https://drive.google.com/drive/folders/1sy-_H1acKqahcygNw0AMygXa_Fatcbj8?usp=sharing)
 
-## 3. Đề thi:
+## 3. Đề thi tổng hợp:
 
 - Cuối kỳ giải tích 2 (pv): [link](https://drive.google.com/file/d/1Zh9aKkSs5-1Qz6SWTO6fuvSJC2tOR7aW/view?usp=sharing)
 
@@ -62,9 +61,13 @@ __Password (nếu có): TrinhQuocDanh__
 
 - Cuối kỳ Web 1(pv): [link](https://drive.google.com/file/d/1eGOvq-Tt71oyiclak0Xmxbty4QTcGNsb/view?usp=sharing)
 
-- Cuối kỳ PPNCKH CNTT: [link đề](https://drive.google.com/file/d/16a0FuQK5AkWotvkPOPrmJwN-DfKNRjUg/view?usp=sharing), [link paper](https://drive.google.com/file/d/1G-9qSLivS_waRkhY-NHH6fEdjBUWnS9w/view?usp=sharing)
+- Cuối kỳ PPNCKH CNTT: [link](https://drive.google.com/file/d/16a0FuQK5AkWotvkPOPrmJwN-DfKNRjUg/view?usp=sharing), [link paper](https://drive.google.com/file/d/1G-9qSLivS_waRkhY-NHH6fEdjBUWnS9w/view?usp=sharing)
 
-## 4. Tai lieu:
+- Cuối kỳ lập trình Java: [link](https://drive.google.com/file/d/1jyIXgyhyV9aBxQfXSF3N7qzUED2dygZH/view?usp=sharing)
+
+- Cuối kì ngôn ngữ lập trình Python 2020 - 2021: [link](https://drive.google.com/file/d/1dKZB9qRKrLLkMBAJdaOGhXADcZTemc3i/view?usp=sharing)
+
+## 4. Tài liệu:
 
 - Xác suất thống kê: lý thuyết & bài tập Lê Sĩ Đồng
 
@@ -90,7 +93,7 @@ __Password (nếu có): TrinhQuocDanh__
 
 - [T.S.Hai Lectures](https://drive.google.com/drive/u/0/folders/13SyKwpRxum9E0nKk09_xSR-imqGz05uj)
 
-## 5. Sample tieu luan, bao cao:
+## 5. Sample tiểu luận, báo cáo:
 
 - Sample 1: [link](https://docs.google.com/document/d/1EnM8q51fNZiTnM_JtRsiRyusqBbwUtAT/edit?usp=sharing&ouid=115244724552858808003&rtpof=true&sd=true)
 
@@ -102,32 +105,8 @@ __Password (nếu có): TrinhQuocDanh__
 
 - Old requirements: [link](https://docs.google.com/document/d/1iuJMgKuVnafbM_AGBsxEQtYUsegPynxM/edit?usp=sharing&ouid=115244724552858808003&rtpof=true&sd=true)
 
-<!---
+## 6. Tài liệu chuyên môn
 
-## 6. Các giảng viên tôi đã học và nghiên cứu
+- dv công: [link](https://drive.google.com/file/d/1jASjAQ5qTCq-SVoATDbYrm2upzeD3iOv/view?usp=sharing)
 
-| Bộ môn | Tên giảng viên | Ghi chú |
-|---|---|---|
-| Xác suất thống kê | Nguyễn Văn Huấn | Thầy giảng nhiệt huyết, lắng nghe thật kỹ mới hiểu, điểm danh 75% số tiết, kiểm tra giữa kỳ đề mức cơ bản, được mở tài liệu, chấm thoáng với khoa IT, kế toán |
-| Cơ sở lập trình (lý thuyết)| Phan Tấn Quốc | Bài tập nhiều, cơ bản, vip có. Code theo standard của thầy, **code khác** dễ bị hiểu nhầm, điểm thấp. Điểm 10 lạm phát. |
-| Cơ sở lập trình (thực hành)| Nguyễn Thanh Sang | Khi vào lớp bạn phải code, code, code rất nhiều. Nói chung là code rất nhiều... |
-| Toán rời rạc | Đinh Thị Thu Hương | Chấm điểm công bằng, có khen có chê. Lớp im lặng không ai xung phong thì cô sẽ gọi 1 đứa bất kỳ. Giữa kỳ làm bài tập nhóm. |
-| Toán rời rạc | Phạm Hoàng Vương | Điểm giữa kỳ được đánh giá bài tập nhóm cộng điểm, giảng ít, **tự học** nhiều, hay kể chuyện vui. Làm bài nhiều thì điểm nhiều, làm bài ít thì điểm ít. **Đừng nên ngồi bàn đầu.** |
-| Đại số tuyến tính | Nguyễn Lương Thái Bình | Điểm danh như cơm bữa, đề kiểm tra giữa kỳ ở mức cơ bản, xung phong được cộng điểm |
-| Giải tích 1 | Võ Hoàng Yến | Slide bài giảng nhiều, lý thuyết ít, bài tập cực nhiều, làm bài tập được cộng điểm, 7đ cộng (14 lần làm bài tập) thì 10đ giữa kỳ, auto qua môn |
-| Giải tích 2 | Trần Thanh Bình | Giữa kỳ làm bài tập nhóm nộp. Đừng ngồi bàn đầu, đừng ngủ trong giờ học, hạn chế rảnh rang, hay đi xuống bàn cuối để "hỏi thăm sức khỏe" |
-| Kỹ thuật lập trình | Trần Sơn Hải ft. Lê Hoàng Bình Nguyên | Lý thuyết điểm danh vài buổi, cuối kì thuyết trình quy hoạch động. Điểm thoáng. |
-| Mạng máy tính | Lương Minh Huấn | Try hard cực mạnh. Đề giữa kỳ lý thuyết + thực hành **cực kỳ, khó nuốt**. Nhưng học lớp thầy xong học Web1, Web2 sẽ khá dễ học. |
-| GDQPAN | Đào Công Nghĩa | Vào lớp nên im lặng, ngồi lắng nghe, 0 ngủ gật, được học môn khác. Thi giữa kì đề mở. Điểm danh đầu tiết, rất đúng giờ. Hay kể chuyện ngày xưa, đủ thứ chuyện vui thời sự, chính trị |
-| PPNCKH CNTT | Đinh Thị Thu Hương | Các papers nghiên cứu khoa học của cô rất chất lượng |
-| Pháp luật đại cương | Luyện Đức Anh | Làm lớp trưởng sẽ được cộng điểm, lạm phát điểm số cao. Con gái thì được cưng, nâng niu, còn con trai thì...  |
-| Lập trình web và ứng dụng | Nguyễn Thanh Sang | **Code, code nữa, code mãi** |
-| Hệ điều hành | Trần Sơn Hải | Đề cao tinh thần học nhóm, gọi tên bất kỳ ai để kiểm tra mức độ hiểu bài, 0 hiểu thì thôi, thầy khá vui tính. |
-| Cấu trúc dữ liệu & giải thuật | Lê Minh Nhựt Triều | ~~Tài liệu ít, dạy ít, quở nhiều, thái độ dạy đời. Muốn cải thiện bản thân thì đừng nên đăng ký.~~ |
-| CSDL | Trương Tấn Khoa | Đề giữa kỳ mức độ cơ bản. Tài liệu đầy đủ. Không hiểu chỗ nào thì hỏi ngay vì thầy dạy rất nhanh |
-| Các hệ quản trị CSDL | Lê Thị Lãm Thúy | Tài liệu cực đầy đủ. Đề kiểm tra ở mức cơ bản nhưng phải học bài kỹ thì làm mới được. Thi giữa kỳ đề mở, mà có mở cũng chắc gì làm được ( : |
-| GDTC | Đỗ Thị Hội Uyên | Điểm danh 100% tiết dạy, tiết nào cũng chạy 7 - 9 vòng sân. Phần lớn thời gian dành cho động tác khởi động. |
-| Ngôn ngữ lập trình Python | Trịnh Tấn Đạt | Như thầy Trương Tấn Khoa, giữa kỳ làm đồ án |
-| Lập trình Java & Lập trình hướng đối tượng | Phùng Thái Thiên Trang | Lạm phát điểm cộng, tiết học rất vui, thường xuyên phải viết cảm nghĩ về bản thân. Tận tâm sửa chữa lỗi đồ án, thắc mắc học viên. **Đồ án cực kỳ căng não. Chạy deadline sấp mặt** |
-| Phân thích thiết kế hệ thống thông tin | Lê Hùng Thanh Nhựt | Viết tay, vẽ hình bằng thước ngay hàng thẳng lối, 50% lý thuyết, 50% bài tập. Thường xuyên điểm danh. Cần chú trọng tác phong học tập nghiêm chỉnh. |
--->
+- bhxh: [link](https://drive.google.com/file/d/1jHh8ojLOzCsKyGkSSGblZbfeoWAQKQUd/view?usp=sharing)
